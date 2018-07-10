@@ -1,0 +1,2 @@
+Estamos probando la creación de una nueva rama
+Para ello, vamos a realizar modificaciones en ella y luego vamos a hacer un merge con la master. 
